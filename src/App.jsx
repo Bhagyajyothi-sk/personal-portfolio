@@ -102,6 +102,8 @@ function App() {
             <p>
               Artificial Intelligence &
               Data Science Student
+              CGPA: 9.5
+              Nitte meenakshi institute of technology
             </p>
 
           </div>
@@ -122,8 +124,7 @@ function App() {
 
             <p>
               AI, Machine Learning,
-              Frontend Development,
-              UI/UX Design
+              problem solving
             </p>
 
           </div>
@@ -142,16 +143,13 @@ function App() {
 
           <div className="skill-box">Python</div>
           <div className="skill-box">Machine Learning</div>
-          <div className="skill-box">JavaScript</div>
           <div className="skill-box">React</div>
           <div className="skill-box">HTML</div>
           <div className="skill-box">CSS</div>
           <div className="skill-box">SQL</div>
           <div className="skill-box">Java</div>
           <div className="skill-box">Git & GitHub</div>
-          <div className="skill-box">Responsive Design</div>
           <div className="skill-box">FastAPI</div>
-          <div className="skill-box">MongoDB</div>
           <div className="skill-box">Flutter</div>
           <div className="skill-box">Computer Vision</div>
           <div className="skill-box">REST APIs</div>
