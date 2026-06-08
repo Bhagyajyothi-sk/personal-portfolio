@@ -150,6 +150,11 @@ function App() {
           <div className="skill-box">Java</div>
           <div className="skill-box">Git & GitHub</div>
           <div className="skill-box">Responsive Design</div>
+          <div className="skill-box">FastAPI</div>
+          <div className="skill-box">MongoDB</div>
+          <div className="skill-box">Flutter</div>
+          <div className="skill-box">Computer Vision</div>
+          <div className="skill-box">REST APIs</div>
 
         </div>
 
@@ -182,17 +187,18 @@ function App() {
 
           <div className="project-card">
 
-            <h3>Railway Reservation System</h3>
+            <h3>SnapShareAI</h3>
 
             <p>
-              Built a railway reservation
-              system using database concepts
-              for booking, managing, and
-              tracking reservations.
+              AI-powered photo sharing platform
+              that uses facial recognition to
+              identify people in group photos
+              and automatically deliver images
+              to matched contacts via email.
             </p>
 
             <span>
-              SQL • DBMS • Java
+              Flutter • FastAPI • MongoDB • AI
             </span>
 
           </div>
