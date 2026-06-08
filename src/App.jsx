@@ -275,6 +275,15 @@ function App() {
           Software Estimation
         </a>
 
+        <a
+          href="/certificates/pitchnight.pdf"
+          target="_blank"
+          rel="noreferrer"
+          className="certificate-card"
+        >
+          Pitch night
+        </a>
+
       </div>
     </section>
 
