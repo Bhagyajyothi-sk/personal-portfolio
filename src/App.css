@@ -258,6 +258,27 @@ section {
   line-height: 1.9;
 }
 
+.certificate-card {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+}
+
+.certificate-card h3 {
+  color: #222222;
+  margin-bottom: 12px;
+}
+
+.certificate-card p {
+  color: #666666;
+  margin-bottom: 16px;
+}
+
+.certificate-card span {
+  color: #c59d5f;
+  font-weight: bold;
+}
+
 .project-card span {
   display: inline-block;
   margin-top: 18px;

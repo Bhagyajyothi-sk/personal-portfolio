@@ -100,10 +100,11 @@ function App() {
             <h3>Education</h3>
 
             <p>
-              Artificial Intelligence &
-              Data Science Student
-              CGPA: 9.5
-              Nitte meenakshi institute of technology
+            B.E. in Artificial Intelligence & Data Science
+            <br /><br />
+            CGPA: 9.5
+            <br /><br />
+            Nitte Meenakshi Institute of Technology
             </p>
 
           </div>
@@ -143,7 +144,6 @@ function App() {
 
           <div className="skill-box">Python</div>
           <div className="skill-box">Machine Learning</div>
-          <div className="skill-box">React</div>
           <div className="skill-box">HTML</div>
           <div className="skill-box">CSS</div>
           <div className="skill-box">SQL</div>
@@ -234,7 +234,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Additive Manufacturing
+          <h3>Additive Manufacturing</h3>
+          <p>professional certificate</p>
+          <span>View Certificate →</span>
         </a>
 
         <a
@@ -243,7 +245,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Cyber Security
+          <h3>Cyber Security</h3>
+          <p>Issued from ZecurX Cybersecurity Pvt. Ltd.</p>
+          <span>View Certificate →</span>
         </a>
 
         <a
@@ -252,7 +256,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Large Language Models (LLM)
+          <h3>Large Language Models (LLM)</h3>
+          <p>professional certificate</p>
+          <span>View Certificate →</span>
         </a>
 
         <a
@@ -261,7 +267,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Software Engineering
+          <h3>Software Engineering</h3>
+          <p>Issued from Infosys</p>
+          <span>View Certificate →</span>
         </a>
 
         <a
@@ -270,7 +278,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Software Estimation
+          <h3>Software Estimation</h3>
+          <p>Issued from Infosys</p>
+          <span>View Certificate →</span>
         </a>
 
         <a
@@ -279,7 +289,9 @@ function App() {
           rel="noreferrer"
           className="certificate-card"
         >
-          Pitch night
+          <h3>Pitch night</h3>
+          <p>Issued from Google</p>
+          <span>View Certificate →</span>
         </a>
 
       </div>
